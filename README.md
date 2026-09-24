@@ -15,29 +15,6 @@ component APIs other engineers can actually reuse.
 
 ---
 
-## What I've shipped
-
-**OASYS — internal B2B operations platform** · OfBusiness
-Built Bulk Delivery, Stock Adjustment and RFP automation workflows that cut manual operational
-effort by **40% (~500+ hours saved)**. Contributed 10+ responsive UI components — tables, cards,
-modals — that became the product's standard reusable patterns.
-
-**NEXIZO — marketing platform** · OfBusiness
-Took Core Web Vitals to **LCP < 1.8s, FCP < 1.3s, TTFB < 0.7s and CLS = 0** on mobile under slow
-network conditions, and reached a **100/100 SEO score** via SSG, JSON-LD structured data, sitemaps,
-canonical URLs and a corrected heading hierarchy.
-
-**ELCHEMY — B2B chemical marketplace CRM** · Antino Labs
-Delivered a Next.js application with sub-2s load time, real-time WebSocket notifications, an
-analytics dashboard, and **role-based access control across 8 distinct roles**.
-
-**HCL Healthcare** · Antino Labs
-Built from inception to production, held page load under 3s, and scaled to **5,000 concurrent
-users** validated under load testing. Payment gateway integration reduced patient onboarding
-time by 40%.
-
----
-
 ## Tech
 
 **Languages** — TypeScript · JavaScript · Java · HTML5 · CSS3 · SCSS
